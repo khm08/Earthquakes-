@@ -1,0 +1,5 @@
+Silhouette Score (Cluster Validity): 0.5155248878625568
+R-Squared (Regression Model): 0.05417945048935202
+Root Mean Squared Error (RMSE): 2664.43808508097
+ANOVA F-Statistic (Economic Impact by Cluster): 436.48473714284955
+ANOVA p-value: 8.61438134344767e-56
